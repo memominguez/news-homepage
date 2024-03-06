@@ -34,8 +34,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+
+- Solution URL:  [Github repository](https://github.com/memominguez/news-homepage)
+- Live Site URL:  [Github pages](https://memominguez.github.io/news-homepage/)
+
 
 ## My process
 
